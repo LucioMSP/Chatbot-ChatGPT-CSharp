@@ -1,0 +1,21 @@
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\ChatGPT Bot.exe
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\ChatGPT Bot.deps.json
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\ChatGPT Bot.runtimeconfig.json
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\ChatGPT Bot.runtimeconfig.dev.json
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\ChatGPT Bot.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\ChatGPT Bot.pdb
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.csproj.AssemblyReference.cache
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.AssemblyInfoInputs.cache
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.AssemblyInfo.cs
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.csproj.CoreCompileInputs.cache
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.csproj.CopyComplete
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.dll
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.pdb
+C:\Users\VicenteGuzman\source\repos\ChatGPT Bot\ChatGPT Bot\obj\Debug\netcoreapp3.1\ChatGPT Bot.genruntimeconfig.cache
